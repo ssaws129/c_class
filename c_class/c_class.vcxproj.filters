@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\day5">
       <UniqueIdentifier>{7f716bb8-8dd5-45b9-9f5a-80b8558889f4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day6">
+      <UniqueIdentifier>{a10f5307-f1ae-4df5-8c34-f49c44dd9619}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -74,6 +77,21 @@
     </ClCompile>
     <ClCompile Include="증감연산자.c">
       <Filter>소스 파일\day5</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자우선순위.c">
+      <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="짱구의 기말고사.c">
+      <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="논리연산자.c">
+      <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="상황조건연산자.c">
+      <Filter>소스 파일\day6</Filter>
+    </ClCompile>
+    <ClCompile Include="비트단위연산자.c">
+      <Filter>소스 파일\day6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
