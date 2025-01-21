@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\day9">
       <UniqueIdentifier>{1472519c-776c-47f5-bb9e-2fe4f8ae6afc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day10">
+      <UniqueIdentifier>{44cc7a68-772b-409e-ab32-7d2b7f366553}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -149,6 +152,18 @@
     </ClCompile>
     <ClCompile Include="중첩for문.c">
       <Filter>소스 파일\day9</Filter>
+    </ClCompile>
+    <ClCompile Include="난수생성.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="배열.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열변수배열.c">
+      <Filter>소스 파일\day10</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터1.c">
+      <Filter>소스 파일\day10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
