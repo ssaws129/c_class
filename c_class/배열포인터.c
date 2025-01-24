@@ -17,6 +17,20 @@ int main()
 		printf("arr[%d] : %d\n", i, (*arrptr)[i]);
 	}
 
+	int arr2[2][3] = {
+		{1,2,3},
+		{4,5,6}
+
+	};
+	int (*arr2PTR)[3] = arr2; //2차원 배열은 &안붙음 //첫번째 행의 주소가 저장됨 //행을 가리키는 포인터역할//배열의 개수를 알수있음
+	//이미 크기가 확실하게되서 굳이 역참조 할 필요가 없음
+	for (int i = 0; i < 2; i++) {
+		for (int j = 0; j < 3; j++) {
+			printf("arr2[%d][%d] : %d\n", i, j, arr2PTR[i][j]);
+
+		}
+		printf("\n");
+	}
 
 	return 0;
 }

@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\day12">
       <UniqueIdentifier>{57e77ac9-c73e-46be-8575-91ca9622d488}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day13">
+      <UniqueIdentifier>{8d38917c-399c-457e-9171-b5513dbbe385}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -194,6 +197,21 @@
     </ClCompile>
     <ClCompile Include="배열포인터.c">
       <Filter>소스 파일\day12</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열과 포인터.c">
+      <Filter>소스 파일\day13</Filter>
+    </ClCompile>
+    <ClCompile Include="함수.c">
+      <Filter>소스 파일\day13</Filter>
+    </ClCompile>
+    <ClCompile Include="인사하는프로그램.c">
+      <Filter>소스 파일\day13</Filter>
+    </ClCompile>
+    <ClCompile Include="곱셈프로그램.c">
+      <Filter>소스 파일\day13</Filter>
+    </ClCompile>
+    <ClCompile Include="딸기.c">
+      <Filter>소스 파일\day13</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
