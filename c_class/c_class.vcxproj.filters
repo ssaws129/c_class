@@ -52,6 +52,12 @@
     <Filter Include="소스 파일\day13">
       <UniqueIdentifier>{8d38917c-399c-457e-9171-b5513dbbe385}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day14">
+      <UniqueIdentifier>{765d264a-67f6-4b63-a430-4caeed92685f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\day15">
+      <UniqueIdentifier>{509cde8e-c009-48a6-ba29-8a82ce2a1fdf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -210,8 +216,17 @@
     <ClCompile Include="곱셈프로그램.c">
       <Filter>소스 파일\day13</Filter>
     </ClCompile>
-    <ClCompile Include="딸기.c">
+    <ClCompile Include="가격비교.c">
       <Filter>소스 파일\day13</Filter>
+    </ClCompile>
+    <ClCompile Include="지역변수 전역변수.c">
+      <Filter>소스 파일\day14</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터와 함수의 관계.c">
+      <Filter>소스 파일\day14</Filter>
+    </ClCompile>
+    <ClCompile Include="이중포인터.c">
+      <Filter>소스 파일\day14</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
