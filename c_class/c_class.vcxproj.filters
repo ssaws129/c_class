@@ -228,6 +228,15 @@
     <ClCompile Include="이중포인터.c">
       <Filter>소스 파일\day14</Filter>
     </ClCompile>
+    <ClCompile Include="메모리의동적할당.c">
+      <Filter>소스 파일\day15</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일\day15</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체문제.c">
+      <Filter>소스 파일\day15</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="대입연산자.c">
